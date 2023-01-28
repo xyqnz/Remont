@@ -1,0 +1,15 @@
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.F_Menu.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.FormDobAvto.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.FormRemontAvto.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.FormSotr.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.FormUsl.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

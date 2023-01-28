@@ -1,0 +1,102 @@
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Menu.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormSotr.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormUsl.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDobAvto.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRemontAvto.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRedAvto.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormUslZaPeriod.resources
+C:\Users\Home-PC\source\repos\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDiagramRUsl.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Menu.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDiagramRUsl.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRedAvto.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDobAvto.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRemontAvto.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormSotr.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormUsl.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormUslZaPeriod.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home-PC\source\repos\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Menu.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDiagramRUsl.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRedAvto.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDobAvto.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormRemontAvto.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormSotr.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormUsl.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormUslZaPeriod.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont — 231122\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Menu.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Honor\Кошелева АВ\VisualStudio\Source\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Menu.resources
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Menu.resources
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\ДОУ\Remont\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.F_Menu.resources
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\ДОУ\Remont\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
